@@ -1,5 +1,5 @@
     // Nama cache
-    const CACHE_NAME = 'gebyar-kemerdekaan-cache-v1';
+    const CACHE_NAME = 'gebyar-kemerdekaan-cache-v2';
     // Daftar file yang akan di-cache
     const urlsToCache = [
       '/'
